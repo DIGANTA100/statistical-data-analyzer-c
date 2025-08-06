@@ -50,6 +50,12 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 - **Math Library** (`math.h`)
 ---
 
+## ✅ Author
+
+Made with ❤️ by [Ajmain Fayek Diganta](https://github.com/DIGANTA100)  
+🔗 [GitHub Profile](https://github.com/DIGANTA100)
+---
+
 ## 🔧 How to Compile
 
 Make sure you have GCC installed.
