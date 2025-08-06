@@ -51,7 +51,7 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 ---
 ## 📸 Sample Output
 
-![Program Output](/images/Screenshot 2025-08-07 013010.png)
+![Program Output](images/Screenshot 2025-08-07 013010.png)
 
 
 ## ✅ Author
