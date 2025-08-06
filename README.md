@@ -49,9 +49,6 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 - **GCC Compiler**
 - **Math Library** (`math.h`)
 ---
-## 📸 Sample Output
-
-![Program Output](images/Screenshot 2025-08-07 013010.png)
 
 
 ## ✅ Author
