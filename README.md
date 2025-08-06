@@ -21,10 +21,8 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 
 ---
 
-##📝 Sample Commands (Inside the Program)
-python
-Copy
-Edit
+## 📝 Sample Commands (Inside the Program)
+
 set         # Set the size and distribution type (Uniform or Gaussian)
 mean        # Show mean of current data
 min         # Show minimum value
