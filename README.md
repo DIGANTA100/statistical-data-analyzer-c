@@ -43,6 +43,13 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 - Uses **Box-Muller** method for generating Gaussian distribution
 ---
 
+## 🛠 Technologies Used
+
+- **C Language**
+- **GCC Compiler**
+- **Math Library** (`math.h`)
+---
+
 ## 🔧 How to Compile
 
 Make sure you have GCC installed.
