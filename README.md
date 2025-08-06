@@ -35,6 +35,14 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 
 ---
 
+## 📌 Notes
+
+- Maximum array size: **100,000**
+- Histogram bin count: **10**
+- Maximum stars per bin in histogram: **50**
+- Uses **Box-Muller** method for generating Gaussian distribution
+---
+
 ## 🔧 How to Compile
 
 Make sure you have GCC installed.
