@@ -23,15 +23,15 @@ A command-line C program that generates, analyzes, and visualizes statistical da
 
 ## 📝 Sample Commands (Inside the Program)
 
-set         # Set the size and distribution type (Uniform or Gaussian)
-mean        # Show mean of current data
-min         # Show minimum value
-max         # Show maximum value
-stddev      # Show standard deviation
-hist        # Display histogram (10 bins)
-summary     # Show all statistics + histogram
-help        # List all available commands
-exit        # Exit the program
+set          Set the size and distribution type (Uniform or Gaussian)
+mean         Show mean of current data
+min          Show minimum value
+max          Show maximum value
+stddev       Show standard deviation
+hist         Display histogram (10 bins)
+summary      Show all statistics + histogram
+help         List all available commands
+exit         Exit the program
 ---
 
 ## 🔧 How to Compile
